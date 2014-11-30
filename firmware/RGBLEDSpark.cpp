@@ -2,10 +2,10 @@
 #include "application.h"
 #include <math.h>
 
-#include "RGBLED.h"
+#include "RGBLEDSpark.h"
 
 // Constructor
-RGBLED::RGBLED(int rPin, int gPin, int bPin, common_type type) {
+RGBLEDSpark::RGBLED(int rPin, int gPin, int bPin, common_type type) {
 	redPin = rPin;
 	greenPin = gPin;
 	bluePin = bPin;

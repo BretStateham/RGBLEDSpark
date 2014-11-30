@@ -1,8 +1,8 @@
 /*
-	RGBLED.h - Library for controlling an RGB LED with a Spark Core
+	RGBLEDSpark.h - Library for controlling an RGB LED with a Spark Core
 	Created by Bret Stateham, November 30, 2014
 	Released into the public domain
-	You can get the latest version from http://github.com/BretStateham/rgbled-spark
+	You can get the latest version from http://github.com/BretStateham/RGBLED-Spark
 
 	This is a variation of the original http://github.com/BretStateham/rgbled library for Arduino
 
@@ -35,8 +35,8 @@
 
 */
 
-#ifndef RGBLED-Spark_h
-#define RGBLED-Spark_h
+#ifndef RGBLEDSpark_h
+#define RGBLEDSpark_h
 
 #define ARDUINO_H
 #include "application.h"

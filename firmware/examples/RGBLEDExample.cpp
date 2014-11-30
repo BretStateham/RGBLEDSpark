@@ -4,7 +4,7 @@
   Created by Bret Stateham, November 30, 2014
   You can get the latest version from http://github.com/BretStateham/RGBLED-Spark
 */
-#include <RGBLED.h>
+#include <RGBLEDSpark.h>
 
 // Declare an RGBLED instanced named rgbLed
 // Red, Green and Blue LED legs are connected to PWM pins A7,A6 & A5 respectively
