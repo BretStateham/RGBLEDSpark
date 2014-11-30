@@ -5,7 +5,7 @@
 #include "RGBLEDSpark.h"
 
 // Constructor
-RGBLEDSpark::RGBLED(int rPin, int gPin, int bPin, common_type type) {
+RGBLED::RGBLED(int rPin, int gPin, int bPin, common_type type) {
 	redPin = rPin;
 	greenPin = gPin;
 	bluePin = bPin;
