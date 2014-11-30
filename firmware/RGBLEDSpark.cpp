@@ -1,7 +1,3 @@
-#define ARDUINO_H
-#include "application.h"
-#include <math.h>
-
 #include "RGBLEDSpark.h"
 
 // Constructor
