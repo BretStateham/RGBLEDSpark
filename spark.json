@@ -1,0 +1,7 @@
+{
+  "name": "RGBLED",
+  "author": "Bret Stateham <Bret.Stateham@microsoft.com>",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "A simple library to drive common anode, or common cathode RGB LEDs with the Spark Core"
+}
