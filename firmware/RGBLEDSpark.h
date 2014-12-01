@@ -38,7 +38,6 @@
 #ifndef RGBLEDSpark_h
 #define RGBLEDSpark_h
 
-#define ARDUINO_H
 #include "application.h"
 #include <math.h>
 
