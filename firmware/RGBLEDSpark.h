@@ -38,8 +38,16 @@
 #ifndef RGBLEDSpark_h
 #define RGBLEDSpark_h
 
+//Make library cross-compatiable
+//with Arduino, GNU C++ for tests, and Spark.
+#if defined(ARDUINO) && ARDUINO >= 100
+#include "Arduino.h"
+#elif defined(SPARK)
 #include "application.h"
 #include <math.h>
+#endif
+
+
 
 typedef enum 
 {
