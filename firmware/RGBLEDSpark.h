@@ -44,7 +44,7 @@
 #include "Arduino.h"
 #elif defined(SPARK)
 #include "application.h"
-#include <math>
+#include "math.h"
 #endif
 
 
